@@ -1,2 +1,2 @@
 # PF
-ALL mauals
+ALL manuals
